@@ -16,7 +16,8 @@ $${\color{blue}You can add a README file to your repository to tell other people
 # text in gray
 @@ text in purple (and bold)@@
 ```
-#f03c15
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+
 
 
 
