@@ -11,7 +11,9 @@ $${\color{blue}You can add a README file to your repository to tell other people
 
 ```diff
 - Abdul Rehman  red 
-+ text in green
++ if [ -z "${JENKINS_USERNAME}" ] || [ -z "${JENKINS_TOKEN}" ]; then
+    echo "You must set JENKINS_USERNAME and JENKINS_TOKEN environment variables."
+    exit 1; green
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
