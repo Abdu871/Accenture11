@@ -1,0 +1,7 @@
+Go to the GitHub repository where you want to create the branch.
+
+Click on the "Branch" dropdown menu, located above the file list on the left side of the repository.
+
+In the text field, type a name for your new branch. Choose a descriptive name that reflects the purpose of the branch.
+
+After typing the branch name, press Enter or click on the "Create branch: branch_name" button.
