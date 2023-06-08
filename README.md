@@ -4,7 +4,7 @@
 $${\color{red}**Go to the GitHub repository where you want to create the branch Click on the "Branch" dropdown menu, located above the file list on the left side of the }$$
 # Abdul Rehman Repostory 
 
-$${/color{blue}You can add a README file to your repository to tell other people why your project is useful, what they can do with your project, and how they can use it.}$$
+$${\color{blue}You can add a README file to your repository to tell other people why your project is useful, what they can do with your project, and how they can use it.}$$
 
 
 # Redme.md txt
