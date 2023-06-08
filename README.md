@@ -9,6 +9,14 @@ $${\color{blue}You can add a README file to your repository to tell other people
 
 # Redme.md txt
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 
 
 
