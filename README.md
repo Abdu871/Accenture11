@@ -10,7 +10,7 @@ $${\color{blue}You can add a README file to your repository to tell other people
 # Redme.md txt
 
 ```diff
-- Abdul Rehman  red 
+- # Abdul Rehman  red 
 + text in green
 ! text in orange
 # text in gray
