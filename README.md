@@ -1,3 +1,21 @@
 # Accenture11
-Abdul Rehman
-**This is bold text**
+**Redme.md file**     I just love **bold text**  This text is ___is a file commonly used in software development projects to provide essential information and documentation about the project___. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
