@@ -20,6 +20,10 @@ $${\color{blue}You can add a README file to your repository to tell other people
 ```
 - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
 
+# Apply a specific color to all text in a Markdown document
+
+
+
 
 
 
