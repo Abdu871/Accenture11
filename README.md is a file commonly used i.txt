@@ -9,4 +9,5 @@ The purpose of the README.md file is to provide
 Overview project
 purpose, features
 installation instructions
-usage guidelines, and other relevant information that users or developers need 
+git pull
+git clone
